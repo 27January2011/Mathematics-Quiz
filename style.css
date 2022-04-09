@@ -1,0 +1,55 @@
+body
+{
+    background-image: linear-gradient(to bottom, #fe2ac2, #d736b2, #c118a2);
+}
+
+.Welcome 
+{
+    border-radius: 250px;
+}
+
+h1 
+{ 
+    font-size:  100px;
+    color: rgb(53, 13, 171);
+    font-style: Comic Sans MS;
+}   
+
+h2 , h3 , h4
+{
+    color: rgb(53, 13, 171);
+    font-style: Comic Sans MS;
+}
+    
+
+.login_div1 , .login_div2 , .number1 , .number2
+{
+    background: linear-gradient(to bottom, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    color:#040452
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: linear-gradient(to bottom, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+border-radius: 10px;
+border-top: pink;
+padding: 10px;
+float: none;
+text-align: left;
+}
